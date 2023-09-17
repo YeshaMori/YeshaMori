@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @YeshaMori
 - 👀 I’m interested in public speaking
 - 🌱 I’m currently learning sql and c++
-- 💞️ I’m looking to collaborate on web development 
+- 💞️ I’m looking to collaborate on web development  
+- by profession I'm a graphic designer 
 - 📫 How to reach me : moriyesha@gmail.com 
 
 <!---
